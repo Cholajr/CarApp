@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617134043317",
+    "project_id": "car-scanner-7f433",
+    "storage_bucket": "car-scanner-7f433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617134043317:android:b7340759f378bbf1f48efc",
+        "android_client_info": {
+          "package_name": "com.example.scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFvJwCs6ZKBoycvBZsLs9IE5g8jS7rnNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
